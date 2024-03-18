@@ -13,7 +13,11 @@ let quote = [
     "TELL EVERYBODY I'M ON MY WAY! - Aurora Whiteclaw",
     "Bite 'em in the nuts. - Sack Pack",
     "FUUCK OFF! - Obu Backhand",
+    "Exploit the chaos - BoomBap McDrum",
+    "SQWAAAAAUUKK - Falco Lombardi",
+    "Yesh M'lord - Scuffknee",
     ""
+
 ];
 
 var quotesToShow = [...quote]; // Create a copy of the original array
