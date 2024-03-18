@@ -15,8 +15,8 @@ let quote = [
     "FUUCK OFF! - Obu Backhand",
     "Exploit the chaos - BoomBap McDrum",
     "SQWAAAAAUUKK - Falco Lombardi",
-    "Yesh M'lord - Scuffknee",
-    ""
+    "Yesh M'lord - Scuffknee"
+    
 
 ];
 
